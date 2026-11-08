@@ -1,0 +1,20 @@
+# MATLAB autosave and recovery files
+*.asv
+*.m~
+*.mat
+*.fig
+
+# Octave core dumps and editor state
+octave-workspace
+octave-core
+.octaverc
+
+# MATLAB Cache & Profile
+slprj/
+*.slxc
+
+# Operating System & IDE Metadata
+.DS_Store
+.idea/
+.vscode/
+Thumbs.db
